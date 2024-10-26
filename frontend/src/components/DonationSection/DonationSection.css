@@ -1,0 +1,13 @@
+.donation-section {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	gap: 1rem;
+	padding: auto 1rem;
+}
+
+.instance-container {
+	display: flex;
+	flex-direction: column-reverse;
+	gap: 1rem;
+}

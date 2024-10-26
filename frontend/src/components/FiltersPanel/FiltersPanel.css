@@ -1,0 +1,10 @@
+.filters-panel {
+	display: flex;
+	flex-direction: column;
+	height: fit-content;
+	gap: 2rem;
+	flex: 1 0 1;
+	margin: 1rem;
+	width: 30%;
+	border-radius: 1rem;
+}

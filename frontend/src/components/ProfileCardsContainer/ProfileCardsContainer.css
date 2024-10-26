@@ -1,0 +1,15 @@
+.profile-cards-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-template-rows: auto;
+
+	/* height: fit-content; */
+	/* width: 75%; */
+	/* max-width: 75%; */
+
+	height: fit-content;
+	gap: 1rem;
+	padding: 1rem;
+	flex: 1 0 75%;
+	/* border: 1px dashed #000; */
+}

@@ -1,0 +1,12 @@
+.image-holder {
+	display: flex;
+	gap: 1rem;
+	flex-direction: column;
+	width: 100%;
+}
+
+.image-holder img {
+	width: 100%;
+	border-radius: 0.5rem;
+	border: 2px solid rgba(28, 35, 41, 0.32);
+}

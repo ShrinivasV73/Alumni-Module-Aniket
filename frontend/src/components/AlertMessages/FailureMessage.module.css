@@ -1,0 +1,10 @@
+.alert_message_full_width {
+    text-align: center;
+}
+
+.alert_message_enough_width {
+    display: inline-block;
+
+    padding: 0.5rem !important;
+    margin: auto;
+}

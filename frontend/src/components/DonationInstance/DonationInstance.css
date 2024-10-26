@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+.donation-instance {
+	width: 100%;
+	padding: 1rem;
+	border: 1px solid rgba(28, 35, 41, 0.32);
+	border-radius: 0.5rem;
+}
+
+.donation-instance hr {
+	margin: 0.5rem 0;
+}
+
+.donation-instance > * > * {
+	margin: 0;
+}
+
+.donation-instance .date-amount-wrapper {
+	display: flex;
+	justify-content: space-between;
+}

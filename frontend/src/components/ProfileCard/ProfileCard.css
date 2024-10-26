@@ -1,0 +1,27 @@
+.profile-card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	padding: 1.5rem;
+	width: auto;
+	height: fit-content;
+	gap: 1rem;
+	border: 1px solid rgba(28, 35, 41, 0.32);
+	border-radius: 0.5rem;
+}
+
+.profile-card img {
+	width: 6rem;
+	border: 2px solid rgba(28, 35, 41, 0.16);
+	border-radius: 100%;
+}
+
+.profile-card > * {
+	margin: auto;
+}
+
+.profile-card .year-dept-wrapper > * {
+	margin: 0 auto;
+}

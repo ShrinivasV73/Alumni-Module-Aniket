@@ -1,0 +1,8 @@
+.secondary-panel {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	max-width: 25%;
+	margin: 1rem;
+	/* flex-basis: 25%; */
+}
